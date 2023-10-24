@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **d1p@duck.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l8H0ZAgMGzROUUfermzJQ7RZBaHAP1nQ/view?usp=sharing](https://drive.google.com/file/d/1l8H0ZAgMGzROUUfermzJQ7RZBaHAP1nQ/view?usp=sharing)
+- 📄 Know about my experiences [REsume](https://drive.google.com/file/d/1HzSQYW4wYgMDFMskwWLRtzfdn3ZPQm9e/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
