@@ -55,6 +55,5 @@ Feel free to explore my [**Resume**](https://flowcv.com/resume/bukgaujkuj)  for 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dipanshu-m&icon=2&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=dipanshu-m&label=Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
