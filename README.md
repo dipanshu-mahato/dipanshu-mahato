@@ -8,7 +8,7 @@ Feel free to explore my [**Resume**](https://flowcv.com/resume/bukgaujkuj)  for 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipanshu-mahato)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%232C2C2C.svg?logo=leetcode)](https://leetcode.com/u/dipanshu_m/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%232C2C2C.svg?logo=leetcode)](https://leetcode.com/u/dipanshu-mahato/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/dipanshu_mahato)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%236F4F33.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/dipanshu_m)
 
