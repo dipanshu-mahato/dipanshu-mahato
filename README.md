@@ -53,7 +53,4 @@ Feel free to explore my [**Resume**](https://flowcv.com/resume/bukgaujkuj)  for 
 ![](https://github-readme-stats.vercel.app/api?username=dipanshu-mahato&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dipanshu-mahato&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu-mahato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dipanshu-mahato&label=Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
